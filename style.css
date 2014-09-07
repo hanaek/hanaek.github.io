@@ -1,0 +1,32 @@
+body {
+	background-position: center;
+	color: white;
+	font-family: helvetica;
+	background: url("http://i.imgur.com/XfYvkrC.png");
+	background-size: cover;
+}
+
+#header {
+    background-image:url("http://i.imgur.com/314ZPzb.png");
+    background-repeat: repeat-x;
+    margin-top: 0px;
+}
+
+h1 {
+	margin-left: 100px;
+	margin-top: 250px;
+}
+
+hr {
+	border-color: #fd6e6e;
+	width: 50px;
+	height: 1px;
+	background-color: #fd6e6e;
+	margin-left: 100px;
+}
+
+p {
+	font-weight: lighter;
+	font-size: 22px;
+	margin-left: 100px;
+}
