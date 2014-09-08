@@ -1,16 +1,24 @@
+.header {
+    background-image:url("http://i.imgur.com/314ZPzb.png");
+    background-repeat: repeat-x;
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+
 body {
-	background-position: center;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	color: white;
-	font-family: helvetica;
+	font-family: helvetica, sans;
 	background: url("http://i.imgur.com/XfYvkrC.png");
 	background-size: cover;
 }
 
-#header {
-    background-image:url("http://i.imgur.com/314ZPzb.png");
-    background-repeat: repeat-x;
-    margin-top: 0px;
-}
 
 h1 {
 	margin-left: 100px;
