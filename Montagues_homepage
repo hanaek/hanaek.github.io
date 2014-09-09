@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<title>Montagues Homepage</title>
+
+<head> 
+	<link rel="stylesheet" href="http://hanaek.github.io/mont_style.css"/>
+</head>
+
+<body>
+	<div id="menu">
+	<ul>
+  		<li><a href="#about">about</a></li>
+  		<li><a href="#menu">menu</a></li>
+  		<li><a href="#contact">Contact</a></li>
+	</ul>
+	</div>
+
+	
+	<div class="tagline">
+		<ul>
+		<li><h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc cursus venenatis commodo.</h1></li>
+		</ul>
+	</div>
+
+</body>
+
+</html>
