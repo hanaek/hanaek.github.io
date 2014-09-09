@@ -1,9 +1,9 @@
 body {
-	background: url("http://i.imgur.com/AmCdq9U.png");
+	background: url("http://i.imgur.com/JpjY02X.png");
 	background-position: top center;
 	background-size: cover; 
 	background-repeat: no-repeat;
-	background-color: #F4EDE9;
+	background-color: white;
 	}
 
 
@@ -17,6 +17,7 @@ body {
 	font-family: helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 15px;
+	text-align: center;
 	background-color: #460002;
 }
 
@@ -43,27 +44,11 @@ body {
 }
 
 h1 {
+	padding-top: 250px;
 	font-family: helvetica, sans-serif;
 	font-weight: normal;
 	color: #460002;
 	font-size: 15px;
-	margin-top: 40px;
-
+	margin-top: 400px;
+	margin-left: auto;
 }
-
-.tagline ul{
-	list-style-type: none;
-	margin: auto;
-	padding: 0;
-	text-align: center;
-
-
-}
-
-.tagline li {
-	display: inline-block;
-
-}
-
-
-
