@@ -1,24 +1,20 @@
+body {
+	background: url("http://i.imgur.com/XfYvkrC.png");
+	background-position: top center;
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-color: #52596B
+	
+
+
+}
+
 .header {
-    background-image:url("http://i.imgur.com/314ZPzb.png");
+	background-image:url("http://i.imgur.com/314ZPzb.png");
     background-repeat: repeat-x;
     position: absolute;
-    overflow: hidden;
-    width: 100%;
-    margin-top: 0px;
+    width: 100%; height: 100%; left: 0px; top: 0px; position: absolute; z-index: 0;
 }
-
-
-
-body {
-	background-position: top center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	color: white;
-	font-family: helvetica, sans;
-	background: url("http://i.imgur.com/XfYvkrC.png");
-	background-size: cover;
-}
-
 
 h1 {
 	margin-left: 100px;
@@ -33,8 +29,10 @@ hr {
 	margin-left: 100px;
 }
 
-p {
+p{
+	font-family: helvetica, sans-serif;
 	font-weight: lighter;
+	color: white;
 	font-size: 22px;
 	margin-left: 100px;
 }
