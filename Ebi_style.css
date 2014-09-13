@@ -1,5 +1,7 @@
 body {
 	background: url("http://i.imgur.com/c0tyQIH.png");
+	background-repeat: no-repeat;
+	background-color: white;
 	height: 700px;
 	background-size: cover; 
 	
