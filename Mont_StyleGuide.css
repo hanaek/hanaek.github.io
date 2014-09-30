@@ -75,6 +75,12 @@ nav a {
 	top: 0px;
 	right: 0px;}
 
+#M_logo {
+	position: fixed;
+	z-index: 2;
+	top: 3px;
+	left: 7px;}
+
 #vintagepaper {
 	background-image:url("http://hanaek.github.io/M_images/Home_vintage4.png");
     background-repeat: no-repeat;
