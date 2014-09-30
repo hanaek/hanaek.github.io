@@ -1,5 +1,5 @@
 body {
-	background: url("M_images/Home_MenuPhoto_1022x1243_3.png");
+	background: url("http://hanaek.github.io/M_images/Home_MenuPhoto_1022x1243_3.png");
 	background-size: cover; 
 	background-repeat: no-repeat;
 	background-color: white;
@@ -76,7 +76,7 @@ nav a {
 	right: 0px;}
 
 #vintagepaper {
-	background-image:url("/Users/hanaekudo/Desktop/round1/coding/images/background/Home_vintage4.png");
+	background-image:url("http://hanaek.github.io/M_images/Home_vintage4.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -87,7 +87,7 @@ nav a {
     z-index: -3;}
 
 #menuphoto {
-	background-image:url("/Users/hanaekudo/Desktop/round1/coding/images/background/Home_MenuPhoto_1022x1243_3.png");
+	background-image:url("http://hanaek.github.io/M_images/Home_MenuPhoto_1022x1243_3.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -216,7 +216,7 @@ hr {
 	text-align: center;
 	margin-top: 80px;}
 #vintagepaper_about {
-	background-image:url("/Users/hanaekudo/Desktop/round1/coding/images/background/Home_vintage4.png");
+	background-image:url("http://hanaek.github.io/M_images/Home_vintage4.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
