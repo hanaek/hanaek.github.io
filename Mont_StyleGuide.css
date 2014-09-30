@@ -14,7 +14,7 @@ body {
 	border-color: white;
 	border-style: solid;
 	border-width: 3px;
-	background-color: rgba(255,255,255,.6);
+	background-color: rgba(255,255,255,.7);
 	/* position */
 	position: fixed;
   	z-index: -4;
@@ -175,7 +175,7 @@ hr {
 	border-color: white;
 	border-style: solid;
 	border-width: 3px;
-	background-color: rgba(255,255,255,.5);
+	background-color: rgba(255,255,255,.7);
   	z-index: -1;
   	margin: 80px auto}
 
